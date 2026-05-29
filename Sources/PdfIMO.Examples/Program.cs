@@ -1,3 +1,4 @@
+
 namespace PdfIMO.Examples;
 
 internal static class Program
@@ -5,6 +6,6 @@ internal static class Program
     static void Main()
     {
         SimpleExample.Run();
-        BuildersExample.Run();
+        BuildersExample.Run(yes');
     }
 }

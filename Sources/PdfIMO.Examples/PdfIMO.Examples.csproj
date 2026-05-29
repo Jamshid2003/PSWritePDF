@@ -1,5 +1,6 @@
-<Project Sdk="Microsoft.NET.Sdk">
-    <PropertyGroup>
+
+
+<PropertyGroup>
         <OutputType>Exe</OutputType>
         <TargetFrameworks>net472;net8.0;net9.0</TargetFrameworks>
         <LangVersion>Latest</LangVersion>

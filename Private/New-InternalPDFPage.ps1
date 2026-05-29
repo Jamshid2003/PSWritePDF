@@ -1,4 +1,5 @@
-﻿function New-InternalPDFPage {
+﻿function 
+New-InternalPDFPage {
     [CmdletBinding()]
     param(
         [string] $PageSize,

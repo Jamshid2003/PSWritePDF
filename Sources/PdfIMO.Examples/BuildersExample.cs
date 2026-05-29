@@ -6,6 +6,7 @@ namespace PdfIMO.Examples;
 
 public static class BuildersExample
 {
+    
     public static void Run()
     {
         var path = "Example13_PdfIMOBuilders.pdf";
